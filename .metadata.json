@@ -1,9 +1,5 @@
 [
   {
-    "package": "matrixprofiler",
-    "oncran": true
-  },
-  {
     "package": "tsmp",
     "oncran": true
   }
