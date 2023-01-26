@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "matrixprofiler"]
+	path = matrixprofiler
+	url = https://github.com/matrix-profile-foundation/matrixprofiler
+	shallow = true
+	registered = true
 [submodule "tsmp"]
 	path = tsmp
 	url = https://github.com/matrix-profile-foundation/tsmp
