@@ -1,10 +1,10 @@
 [
   {
-    "package": "matrixprofiler",
+    "package": "tsmp",
     "oncran": true
   },
   {
-    "package": "tsmp",
+    "package": "matrixprofiler",
     "oncran": true
   }
 ]
